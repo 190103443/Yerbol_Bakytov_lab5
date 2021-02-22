@@ -1,0 +1,1 @@
+My age is: <?php echo $id;?>
